@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Added chapter6.txt to branch release-1
+=======
+New chapter added to release-2 from github
+>>>>>>> release-2
